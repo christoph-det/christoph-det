@@ -8,7 +8,7 @@
 <br />
 
  
-
+<!-- Source https://lottiefiles.com/63487-programming-computer?lang=de -->
 <img align="right" width="40%" alt="GIF" src="animation.gif" />
     
 🖥 I'm a **Business Informatics** Student from Vienna, Austria. 
