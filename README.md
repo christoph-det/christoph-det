@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+
+---
+
+
+🖥 Business Informatics Student from Vienna, Austria. 
+
+👨🏽‍💻 I’m currently self employed and doing multiple different projects in web development and design.
+
+---
+
+
+![Animation](animation.gif)
+
+
+
 <!--
 **christoph-det/christoph-det** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
