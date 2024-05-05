@@ -17,7 +17,7 @@ University of Technology Vienna, Austria.
 👨🏽‍💻 I’m currently self employed and doing multiple different <br>
 projects in **web development** and design. 
 
-Some of my favorite languages are: Java, Python, JavaScript, PHP. 
+Some of my favorite languages are: Rust, Python, Java, JavaScript, PHP. 
 
 ✉️   Hit me up at <a href="mailto:inbox@chdethloff.at">inbox@chdethloff.at</a>
 
